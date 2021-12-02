@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/vqh1ymrhy7rj9k6d/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-12-1-workers-loading-styling-frontend/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/26m6aafgf8tbq8cs/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-12-1-workers-loading-styling-frontend/branch/master)
 
 #### Deployment: <a href="">Github Pages</a>
 #### Backend: <a href="https://github.com/Sergius92739/ahj-12.1-workers_loading_styling_backend">Repository</a>
