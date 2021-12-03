@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/26m6aafgf8tbq8cs/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-12-1-workers-loading-styling-frontend/branch/master)
 
-#### Deployment: <a href="">Github Pages</a>
+#### Deployment: <a href="https://sergius92739.github.io/ahj-12.1-workers_loading_styling_frontend/">Github Pages</a>
 #### Backend: <a href="https://github.com/Sergius92739/ahj-12.1-workers_loading_styling_backend">Repository</a>
 #### Server: <a href="https://ahj-workers-loading-styling.herokuapp.com/">Heroku</a>
 
