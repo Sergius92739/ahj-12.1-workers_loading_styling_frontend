@@ -30,7 +30,7 @@ export default class NewsWidget {
       this.hideAnimation();
       this.showNews(response.data);
     } catch (err) {
-      console.error('Error: ', err);
+      console.log('Error: ', err);
       this.showError();
     }
   }

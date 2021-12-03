@@ -11,7 +11,7 @@ widget.init();
       await navigator.serviceWorker.register('./service-worker.js');
       console.log('Service worker register success');
     }
-  } catch (e) {
-    console.error(e);
+  } catch (err) {
+    console.log('Error: ', err);
   }
 })();
