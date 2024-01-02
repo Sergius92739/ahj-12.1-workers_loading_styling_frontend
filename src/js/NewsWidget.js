@@ -25,7 +25,7 @@ export default class NewsWidget {
   async createRequest() {
     this.showAnimation();
     try {
-      const request = await fetch('https://ahj-workers-loading-styling.herokuapp.com/news');
+      const request = await fetch('https://ahj1.sergem.xyz/news');
       const response = await request.json();
       this.hideAnimation();
       this.showNews(response.data);
