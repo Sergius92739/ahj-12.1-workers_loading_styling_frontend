@@ -2,7 +2,7 @@
 
 #### Deployment: <a href="https://sergius92739.github.io/ahj-12.1-workers_loading_styling_frontend/">Github Pages</a>
 #### Backend: <a href="https://github.com/Sergius92739/ahj-12.1-workers_loading_styling_backend">Repository</a>
-#### Server: <a href="https://ahj1.sergem.xyz/">Облачный сервер</a>
+#### Server: <a href="https://ahj-12-1.sergem.xyz/">Облачный сервер</a>
 
 ---
 
